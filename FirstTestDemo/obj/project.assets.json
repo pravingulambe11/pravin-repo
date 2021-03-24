@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyRepos\\FirstProject\\FirstTestDemo\\FirstTestDemo\\FirstTestDemo.csproj",
+      "projectUniqueName": "D:\\MyRepos\\FirstProject\\FirstBranch\\FirstTestDemo\\FirstTestDemo.csproj",
       "projectName": "FirstTestDemo",
-      "projectPath": "D:\\MyRepos\\FirstProject\\FirstTestDemo\\FirstTestDemo\\FirstTestDemo.csproj",
+      "projectPath": "D:\\MyRepos\\FirstProject\\FirstBranch\\FirstTestDemo\\FirstTestDemo.csproj",
       "packagesPath": "C:\\Users\\Pravin\\.nuget\\packages\\",
-      "outputPath": "D:\\MyRepos\\FirstProject\\FirstTestDemo\\FirstTestDemo\\obj\\",
+      "outputPath": "D:\\MyRepos\\FirstProject\\FirstBranch\\FirstTestDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pravin\\AppData\\Roaming\\NuGet\\NuGet.Config",
