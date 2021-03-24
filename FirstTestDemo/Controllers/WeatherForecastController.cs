@@ -13,6 +13,7 @@ namespace FirstTestDemo.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
+            //changed 1
             "Freezing", "Bracing", "Chilly", "Cool1", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
